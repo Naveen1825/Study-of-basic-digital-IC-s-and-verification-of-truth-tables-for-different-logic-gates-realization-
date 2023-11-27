@@ -1,5 +1,5 @@
-# Name:Naveenkanthan L
-# Reg:23007705
+Name:Naveenkanthan L<br>
+Reg:23007705
 ## Experiment-01 Study of basic digital IC s and verification of truth tables for different logic gates realization.
  
 ## AIM:
