@@ -1,4 +1,4 @@
-# Experiment 1 Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+# Experiment-01 Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
 
  Name:Naveenkanthan L<br>
  Reg:23007705
